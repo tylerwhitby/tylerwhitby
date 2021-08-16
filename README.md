@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylerwhitby
 - 👀 I’m interested in Python development and data engineering
-- 🌱 I’m currently learning about Azure tools
+- 🌱 I’m currently learning about Azure tools, Docker, and Python
 - 📫 How to reach me: https://www.linkedin.com/in/tyler-whitby-89aab781/
 
 <!---
